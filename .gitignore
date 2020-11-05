@@ -14,5 +14,8 @@ tmp/
 # Jupyter notebook
 .ipynb_checkpoints/
 
+# Vscode IDE
+.vscode
+
 # gitbook
 _book/
